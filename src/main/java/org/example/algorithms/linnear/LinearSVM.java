@@ -1,4 +1,4 @@
-package org.example.algorithms;
+package org.example.algorithms.linnear;
 
 public class LinearSVM {
     double[] weights = new double[3]; // [bias, w1, w2]

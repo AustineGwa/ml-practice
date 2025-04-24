@@ -1,4 +1,4 @@
-package org.example.algorithms;
+package org.example.algorithms.linnear;
 
 import java.util.*;
 
